@@ -10,6 +10,8 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- [Gravity, Gizmos, and a Grand Theory of Interstellar Travel](https://www.wired.com/story/mach-effect-thrusters-interstellar-travel/)
+- [Truly, madly, deeply: meet the people turning their basements into secret fantasy worlds](https://www.theguardian.com/lifeandstyle/2020/aug/30/truly-madly-deeply-meet-the-people-turning-their-basements-into-secret-fantasy-worlds)
 - [Epic flood sends cavers scrambling for their lives](https://www.nationalgeographic.com/adventure/2018/10/flood-escape-deepest-cave-veryovkina-abkhazia/)
 - [Islanders running out of isolation: Tim McGirk in the Andaman Islands reports on the fate of the Sentinelese](https://www.independent.co.uk/news/world/islanders-running-out-of-isolation-tim-mcgirk-in-the-andaman-islands-reports-on-the-fate-of-the-1477566.html) <!-- https://books.google.co.in/books?id=TZOvYPBrxl0C&pg=PA287&redir_esc=y#v=onepage&q&f=false (check the reference of this chapter, Pandit and Chattopadhyay, 1993) -->
 - \[[Nicolas Bourbaki: The greatest mathematician who never was][bou1]\], \[[Nicolas Bourbaki][bou2]\]
@@ -45,7 +47,8 @@ TO READ:
 
 HAVE READ:
 ==========
-- []()
+- [My face blindness is embarrassing – but it tells me a lot about other people](https://www.theguardian.com/lifeandstyle/2020/aug/30/my-face-blindness-is-embarrassing-but-it-tells-me-a-lot-about-other-people)
+- [Sex, Beer, and Coding: Inside Facebook’s Wild Early Days](https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days)
 - \[[River (typography)][wiki]\], \[[Avoiding “rivers” in successive lines of type][stk1]\], \[[How to define the badness of a river?][stk2]\],\
   \[[Are there any open research problems in the world of TeX?][stk3]\]
 

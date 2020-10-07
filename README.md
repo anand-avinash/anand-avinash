@@ -10,6 +10,22 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- \[[Is there a place in academia for a physicist who reads mostly about math?][que1]\], \[[Is there a place in academia for someone who compulsively solves every problem on their own?][que2]\], \[[How to stop hopping the learning chain and actually begin somewhere?][que3]\]
+
+  [que1]: <https://academia.stackexchange.com/q/79796>
+  [que2]: <https://academia.stackexchange.com/q/78068>
+  [que3]: <https://academia.stackexchange.com/q/89032>
+
+- [Should I seek professional help because I have a lot of math books?](https://academia.stackexchange.com/questions/156189/should-i-seek-professional-help-because-i-have-a-lot-of-math-books)
+
+- \[[Welcome to the land that no country wants][birt1]\], \[[American plans to use 'his' piece of Africa for advancement of science][birt2]\]
+
+  [birt1]: <https://www.theguardian.com/world/2016/mar/03/welcome-to-the-land-that-no-country-wants-bir-tawil>
+  [birt2]: <https://www.theguardian.com/world/2014/jul/16/american-claim-africa-science-jeremiah-heaton-egypt-sudan>
+- \[[What happened to Myanmar's ghosts?][myan1]\], \[[Inside Burma’s ghost town capital city, which is 4 times the size of London with a fraction of the population][myan2]\]
+  
+  [myan1]: <http://www.bbc.com/travel/story/20191112-what-happened-to-myanmars-ghosts>
+  [myan2]: <https://www.independent.co.uk/travel/inside-burma-s-ghost-town-capital-city-which-4-times-size-london-fraction-population-a7805081.html>
 - [Gravity, Gizmos, and a Grand Theory of Interstellar Travel](https://www.wired.com/story/mach-effect-thrusters-interstellar-travel/)
 - [Truly, madly, deeply: meet the people turning their basements into secret fantasy worlds](https://www.theguardian.com/lifeandstyle/2020/aug/30/truly-madly-deeply-meet-the-people-turning-their-basements-into-secret-fantasy-worlds)
 - [Epic flood sends cavers scrambling for their lives](https://www.nationalgeographic.com/adventure/2018/10/flood-escape-deepest-cave-veryovkina-abkhazia/)
@@ -43,10 +59,12 @@ TO READ:
 - [A path less taken](https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/)
 - [Go Inside These World-Famous, Rarely Seen River Caves](https://www.nationalgeographic.com/adventure/destinations/europe/slovenia/photos-hidden-river-caves/)
 
+- Cities in Asia but not in India: <https://iafisher.com/projects/cities/asia/share/147534>
 - Cities in Europe: <https://iafisher.com/projects/cities/europe/share/138230>
 
 HAVE READ:
 ==========
+- [What effects would a change in the nature of human sexuality have on society and infrastructure?](https://worldbuilding.stackexchange.com/a/2613)
 - [My face blindness is embarrassing – but it tells me a lot about other people](https://www.theguardian.com/lifeandstyle/2020/aug/30/my-face-blindness-is-embarrassing-but-it-tells-me-a-lot-about-other-people)
 - [Sex, Beer, and Coding: Inside Facebook’s Wild Early Days](https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days)
 - \[[River (typography)][wiki]\], \[[Avoiding “rivers” in successive lines of type][stk1]\], \[[How to define the badness of a river?][stk2]\],\

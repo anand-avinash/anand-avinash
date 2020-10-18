@@ -10,12 +10,8 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
-- \[[Is there a place in academia for a physicist who reads mostly about math?][que1]\], \[[Is there a place in academia for someone who compulsively solves every problem on their own?][que2]\], \[[How to stop hopping the learning chain and actually begin somewhere?][que3]\]
-
-  [que1]: <https://academia.stackexchange.com/q/79796>
-  [que2]: <https://academia.stackexchange.com/q/78068>
-  [que3]: <https://academia.stackexchange.com/q/89032>
-
+- \[[Through a Glass, Darkly](https://www.planetary.org/articles/through-a-glass-darkly)\], \[[Flawed beauties](https://www.planetary.org/articles/20150202-flawed-beauties)\]
+- [A Path Less Taken to the Peak of the Math World](https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/)
 - [Should I seek professional help because I have a lot of math books?](https://academia.stackexchange.com/questions/156189/should-i-seek-professional-help-because-i-have-a-lot-of-math-books)
 
 - \[[Welcome to the land that no country wants][birt1]\], \[[American plans to use 'his' piece of Africa for advancement of science][birt2]\]
@@ -50,20 +46,35 @@
 
 TO READ:
 ========
+From my older list:
 - [The Iranian Smugglers Trafficking Fuel Into Pakistan](https://www.wired.com/story/fuel-smugglers-photos/)
 - [Inside the Hunt for Russia’s Most Notorious Hacker](https://www.wired.com/2017/03/russian-hacker-spy-botnet/)
 - [The Last Death-Defying Honey Hunter of Nepal](https://www.nationalgeographic.com/magazine/2017/07/honey-hunters-bees-climbing-nepal/)
 - [Neuroscience: The man who saw time stand still](https://www.bbc.com/future/article/20140624-the-man-who-saw-time-freeze)
 - [Developing physics identities](https://doi.org/10.1063/PT.3.3169)
-- [Flawed beauties](https://www.planetary.org/articles/20150202-flawed-beauties)
-- [A path less taken](https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/)
 - [Go Inside These World-Famous, Rarely Seen River Caves](https://www.nationalgeographic.com/adventure/destinations/europe/slovenia/photos-hidden-river-caves/)
+
+From [Library of Scrolls](https://libraryofscroll.com/):
+- https://www.wired.com/story/facebook-mark-zuckerberg-lost-notebook/
+- https://web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html
+- https://pmarchive.com/guide_to_career_planning_part1.html?s=08
+- http://paulgraham.com/genius.html
+
+For other kind of articles: https://www.futilitycloset.com/
 
 - Cities in Asia but not in India: <https://iafisher.com/projects/cities/asia/share/147534>
 - Cities in Europe: <https://iafisher.com/projects/cities/europe/share/138230>
 
 HAVE READ:
 ==========
+- [Playboy Interview: Steve Jobs](http://reprints.longform.org/playboy-interview-steve-jobs) (Only the later half starting when he talks about his parents,)
+- [My trip to PyCon Namibia](https://www.juanlu.space/posts/2019/03/07/my-trip-to-pycon-namibia/)
+- \[[Is there a place in academia for a physicist who reads mostly about math?][que1]\], \[[Is there a place in academia for someone who compulsively solves every problem on their own?][que2]\], \[[How to stop hopping the learning chain and actually begin somewhere?][que3]\]
+
+  [que1]: <https://academia.stackexchange.com/q/79796>
+  [que2]: <https://academia.stackexchange.com/q/78068>
+  [que3]: <https://academia.stackexchange.com/q/89032>
+
 - [What effects would a change in the nature of human sexuality have on society and infrastructure?](https://worldbuilding.stackexchange.com/a/2613)
 - [My face blindness is embarrassing – but it tells me a lot about other people](https://www.theguardian.com/lifeandstyle/2020/aug/30/my-face-blindness-is-embarrassing-but-it-tells-me-a-lot-about-other-people)
 - [Sex, Beer, and Coding: Inside Facebook’s Wild Early Days](https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days)

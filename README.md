@@ -10,6 +10,8 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
+- [What effects would a change in the nature of human sexuality have on society and infrastructure?](https://worldbuilding.stackexchange.com/a/2613)
 - \[[Through a Glass, Darkly](https://www.planetary.org/articles/through-a-glass-darkly)\], \[[Flawed beauties](https://www.planetary.org/articles/20150202-flawed-beauties)\]
 - [A Path Less Taken to the Peak of the Math World](https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/)
 - [Should I seek professional help because I have a lot of math books?](https://academia.stackexchange.com/questions/156189/should-i-seek-professional-help-because-i-have-a-lot-of-math-books)
@@ -46,6 +48,11 @@
 
 TO READ:
 ========
+- [Sci-Hub](https://arxiv.org/pdf/2006.14979.pdf)
+- [Pradeep Mutalik's Puzzle](https://www.quantamagazine.org/three-math-puzzles-inspired-by-john-horton-conway-20201015/)
+- [What is the Geometry of the Universe?](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/)
+- [The map of mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
+
 From my older list:
 - [The Iranian Smugglers Trafficking Fuel Into Pakistan](https://www.wired.com/story/fuel-smugglers-photos/)
 - [Inside the Hunt for Russia’s Most Notorious Hacker](https://www.wired.com/2017/03/russian-hacker-spy-botnet/)
@@ -75,7 +82,6 @@ HAVE READ:
   [que2]: <https://academia.stackexchange.com/q/78068>
   [que3]: <https://academia.stackexchange.com/q/89032>
 
-- [What effects would a change in the nature of human sexuality have on society and infrastructure?](https://worldbuilding.stackexchange.com/a/2613)
 - [My face blindness is embarrassing – but it tells me a lot about other people](https://www.theguardian.com/lifeandstyle/2020/aug/30/my-face-blindness-is-embarrassing-but-it-tells-me-a-lot-about-other-people)
 - [Sex, Beer, and Coding: Inside Facebook’s Wild Early Days](https://www.wired.com/story/sex-beer-and-coding-inside-facebooks-wild-early-days)
 - \[[River (typography)][wiki]\], \[[Avoiding “rivers” in successive lines of type][stk1]\], \[[How to define the badness of a river?][stk2]\],\

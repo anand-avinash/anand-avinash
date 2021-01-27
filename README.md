@@ -10,6 +10,8 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- [Who Gets to Breathe Clean Air in New Delhi?](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html)
+- [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
 - [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 - [What effects would a change in the nature of human sexuality have on society and infrastructure?](https://worldbuilding.stackexchange.com/a/2613)
 - \[[Through a Glass, Darkly](https://www.planetary.org/articles/through-a-glass-darkly)\], \[[Flawed beauties](https://www.planetary.org/articles/20150202-flawed-beauties)\]
@@ -48,10 +50,12 @@
 
 TO READ:
 ========
+- [w](https://www.thehindu.com/sci-tech/science/this-is-a-wonderful-time-to-work-on-black-holes-astrophysicist-parameswaran-ajith/article33581757.ece)
 - [Sci-Hub](https://arxiv.org/pdf/2006.14979.pdf)
 - [Pradeep Mutalik's Puzzle](https://www.quantamagazine.org/three-math-puzzles-inspired-by-john-horton-conway-20201015/)
 - [What is the Geometry of the Universe?](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/)
 - [The map of mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
+- [C program for multiplication without using `*` or `+` operator](https://codegolf.stackexchange.com/a/18270)
 
 From my older list:
 - [The Iranian Smugglers Trafficking Fuel Into Pakistan](https://www.wired.com/story/fuel-smugglers-photos/)
@@ -74,6 +78,14 @@ For other kind of articles: https://www.futilitycloset.com/
 
 HAVE READ:
 ==========
+- \[[When Art, Architecture and Commerce Collided: The BEST Products Showrooms by SITE][sit1]\], \[[BEST Products Company Buildings][sit2]\], \[[Isuzu Space Station Children’s Plaza][sit3]\], \[[Highway 86][sit4]\], \[[More][sit5]\]
+
+  [sit1]: <https://www.archdaily.com/778003/the-intersection-of-art-and-architecture-the-best-products-showrooms-by-site-sculpture-in-the-environment>
+  [sit2]: <https://www.siteenvirodesign.com/content/best-products>
+  [sit3]: <https://www.siteenvirodesign.com/content/isuzu-space-station>
+  [sit4]: <https://www.siteenvirodesign.com/content/highway-86>
+  [sit5]: <https://www.siteenvirodesign.com/gallery-collections/galleries>
+
 - [Playboy Interview: Steve Jobs](http://reprints.longform.org/playboy-interview-steve-jobs) (Only the later half starting when he talks about his parents,)
 - [My trip to PyCon Namibia](https://www.juanlu.space/posts/2019/03/07/my-trip-to-pycon-namibia/)
 - \[[Is there a place in academia for a physicist who reads mostly about math?][que1]\], \[[Is there a place in academia for someone who compulsively solves every problem on their own?][que2]\], \[[How to stop hopping the learning chain and actually begin somewhere?][que3]\]

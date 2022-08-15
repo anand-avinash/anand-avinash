@@ -10,6 +10,11 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- [Abdus Salam: The real story of Pakistan's Nobel prize winner](https://www.dawn.com/news/1311473/abdus-salam-the-real-story-of-pakistans-nobel-prize-winner)
+- [Writer Evan Ratliff Tried to Vanish: Here's What Happened](https://www.wired.com/2009/11/ff-vanish2/)
+- [Are Telescopes the Only Way to Find Dark Matter?](https://www.scientificamerican.com/article/are-telescopes-the-only-way-to-find-dark-matter/)
+- [Son Doong 360: Exploring the world's largest cave](https://www.nationalgeographic.com/news-features/son-doong-cave/2/#s=pano37)
+- [What a Tiny Masterpiece Reveals About Power and Beauty](https://www.nytimes.com/interactive/2021/04/02/arts/design/shah-jahan-chitarman.html)
 - [Who Gets to Breathe Clean Air in New Delhi?](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html)
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
 - [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
@@ -50,6 +55,8 @@
 
 TO READ:
 ========
+- [Hotel Death](https://edition.cnn.com/interactive/2014/04/world/india-hotel-death/index.html)
+- [Salman Rushdie on Midnight's Children at 40: 'India is no longer the country of this novel'](https://www.theguardian.com/books/2021/apr/03/salman-rushdie-on-midnights-children-at-40-india-is-no-longer-the-country-of-this-novel)
 - [w](https://www.thehindu.com/sci-tech/science/this-is-a-wonderful-time-to-work-on-black-holes-astrophysicist-parameswaran-ajith/article33581757.ece)
 - [Sci-Hub](https://arxiv.org/pdf/2006.14979.pdf)
 - [Pradeep Mutalik's Puzzle](https://www.quantamagazine.org/three-math-puzzles-inspired-by-john-horton-conway-20201015/)
@@ -103,7 +110,6 @@ HAVE READ:
   [stk1]: <https://tex.stackexchange.com/questions/4507/avoiding-rivers-in-successive-lines-of-type>
   [stk2]: <https://tex.stackexchange.com/questions/29049/how-to-define-the-badness-of-a-river>
   [stk3]: <https://tex.stackexchange.com/questions/128454/are-there-any-open-research-problems-in-the-world-of-tex>
-- [Abdus Salam: The real story of Pakistan's Nobel prize winner](https://www.dawn.com/news/1311473/abdus-salam-the-real-story-of-pakistans-nobel-prize-winner)
 -->
 
 </details>

@@ -10,6 +10,7 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- [Discovered in the deep: the incredible fish with a transparent head](https://www.theguardian.com/environment/2022/aug/31/barreleye-incredible-fish-with-a-transparent-head)
 - [Abdus Salam: The real story of Pakistan's Nobel prize winner](https://www.dawn.com/news/1311473/abdus-salam-the-real-story-of-pakistans-nobel-prize-winner)
 - [Writer Evan Ratliff Tried to Vanish: Here's What Happened](https://www.wired.com/2009/11/ff-vanish2/)
 - [Are Telescopes the Only Way to Find Dark Matter?](https://www.scientificamerican.com/article/are-telescopes-the-only-way-to-find-dark-matter/)
@@ -82,9 +83,14 @@ For other kind of articles: https://www.futilitycloset.com/
 
 - Cities in Asia but not in India: <https://iafisher.com/projects/cities/asia/share/147534>
 - Cities in Europe: <https://iafisher.com/projects/cities/europe/share/138230>
+- Cities in Africa (31st August 2022): <https://iafisher.com/projects/cities/africa/share/673734>
+- Cities in South America (31st August 2022): <https://iafisher.com/projects/cities/south-america/share/673746>
+- Cities in Europe (31st August 2022): <https://iafisher.com/projects/cities/europe/share/673893>
+- Cities in Asia (12th Sept 2022, Incomplete): <https://iafisher.com/projects/cities/asia/share/681723>
 
 HAVE READ:
 ==========
+- [Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in Italy](https://www.bellingcat.com/news/2022/08/25/socialite-widow-jeweller-spy-how-a-gru-agent-charmed-her-way-into-nato-circles-in-italy/)
 - \[[When Art, Architecture and Commerce Collided: The BEST Products Showrooms by SITE][sit1]\], \[[BEST Products Company Buildings][sit2]\], \[[Isuzu Space Station Children’s Plaza][sit3]\], \[[Highway 86][sit4]\], \[[More][sit5]\]
 
   [sit1]: <https://www.archdaily.com/778003/the-intersection-of-art-and-architecture-the-best-products-showrooms-by-site-sculpture-in-the-environment>

@@ -10,6 +10,11 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- [How Many Decimals of Pi Do We Really Need?](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/)
+- [My Hardest Bug Ever](https://www.gamedeveloper.com/programming/my-hardest-bug-ever)
+- [Von Neumann and Nobert Weiner](https://richardhartersworld.com/weiner/)
+- [Pele: When India fell in and out of love with the 'wizard of football'](https://www.bbc.com/news/world-asia-india-63869476)
+- [Ailing Brussels: Portrait of a city where inequalities operate in a vicious circle](https://bxl-malade.medor.coop/)
 - [Discovered in the deep: the incredible fish with a transparent head](https://www.theguardian.com/environment/2022/aug/31/barreleye-incredible-fish-with-a-transparent-head)
 - [Abdus Salam: The real story of Pakistan's Nobel prize winner](https://www.dawn.com/news/1311473/abdus-salam-the-real-story-of-pakistans-nobel-prize-winner)
 - [Writer Evan Ratliff Tried to Vanish: Here's What Happened](https://www.wired.com/2009/11/ff-vanish2/)

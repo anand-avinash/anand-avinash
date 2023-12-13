@@ -10,6 +10,10 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- [If I sliced the universe in half, would the slice go through a star?](https://physics.stackexchange.com/q/388802)
+- \[[Even more pi in the sky: Calculating 100 trillion digits of pi on Google Cloud](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud)\], \[[Pi delivery](https://pi.delivery/)\]
+- \[[Writing in Pilish](http://www.cadaeic.net/pilish.htm)\], \[[Near a Raven](http://www.cadaeic.net/naraven.htm)\], \[[Cadaeic Cadenza](http://www.cadaeic.net/cadenza.htm)\]
+- [Someone’s Been Messing With My Subnormals!](https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
 - [How Many Decimals of Pi Do We Really Need?](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/)
 - [My Hardest Bug Ever](https://www.gamedeveloper.com/programming/my-hardest-bug-ever)
 - [Von Neumann and Nobert Weiner](https://richardhartersworld.com/weiner/)
@@ -61,6 +65,10 @@
 
 TO READ:
 ========
+- [A question on probability](https://math.stackexchange.com/questions/4811983/game-theory-probability-interview-question)
+- [UN and the armed conflicts](https://politics.stackexchange.com/questions/82825/have-un-forces-ever-successfully-defended-a-region)
+- [The web is dead](https://www.wired.com/2010/08/ff-webrip/)
+- [Atlanta airport](https://edition.cnn.com/interactive/2013/11/travel/atl24/index.html)
 - [Hotel Death](https://edition.cnn.com/interactive/2014/04/world/india-hotel-death/index.html)
 - [Salman Rushdie on Midnight's Children at 40: 'India is no longer the country of this novel'](https://www.theguardian.com/books/2021/apr/03/salman-rushdie-on-midnights-children-at-40-india-is-no-longer-the-country-of-this-novel)
 - [w](https://www.thehindu.com/sci-tech/science/this-is-a-wonderful-time-to-work-on-black-holes-astrophysicist-parameswaran-ajith/article33581757.ece)
@@ -95,6 +103,7 @@ For other kind of articles: https://www.futilitycloset.com/
 
 HAVE READ:
 ==========
+- [Niger. Il mistero delle fortezze nel deserto; a Djado un miraggio di cui nessuno conosce la storia](https://www.repubblica.it/viaggi/2023/06/05/news/niger_mistero_fortezze_deserto-403258406/)
 - [Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in Italy](https://www.bellingcat.com/news/2022/08/25/socialite-widow-jeweller-spy-how-a-gru-agent-charmed-her-way-into-nato-circles-in-italy/)
 - \[[When Art, Architecture and Commerce Collided: The BEST Products Showrooms by SITE][sit1]\], \[[BEST Products Company Buildings][sit2]\], \[[Isuzu Space Station Children’s Plaza][sit3]\], \[[Highway 86][sit4]\], \[[More][sit5]\]
 

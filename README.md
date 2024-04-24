@@ -10,6 +10,9 @@
 <details>
 <summary><strong>I like to read something every day. Here is the collection of pieces I liked reading</strong></summary>
 
+- \[[Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)\], \[[Who is the child in the old Microsoft certificates?](https://www.reddit.com/r/windows/comments/1bevudl/who_is_the_child_in_the_old_microsoft_certificates/)\]
+- [Letter from Iddin-Sin to Zinu](https://en.wikipedia.org/wiki/Letter_from_Iddin-Sin_to_Zinu)
+- \[[3.141592653589793238462643383279502884197169399375105820974944592.com](https://web.archive.org/web/20040714070100/http://3.141592653589793238462643383279502884197169399375105820974944592.com/)\], \[[ee.eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ee](http://ee.eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ee/)\]
 - [If I sliced the universe in half, would the slice go through a star?](https://physics.stackexchange.com/q/388802)
 - \[[Even more pi in the sky: Calculating 100 trillion digits of pi on Google Cloud](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud)\], \[[Pi delivery](https://pi.delivery/)\]
 - \[[Writing in Pilish](http://www.cadaeic.net/pilish.htm)\], \[[Near a Raven](http://www.cadaeic.net/naraven.htm)\], \[[Cadaeic Cadenza](http://www.cadaeic.net/cadenza.htm)\]
@@ -103,6 +106,7 @@ For other kind of articles: https://www.futilitycloset.com/
 
 HAVE READ:
 ==========
+- [A mathematical model for the determination of total area under glucose tolerance and other metabolic curves](https://pubmed.ncbi.nlm.nih.gov/8137688/)
 - [Niger. Il mistero delle fortezze nel deserto; a Djado un miraggio di cui nessuno conosce la storia](https://www.repubblica.it/viaggi/2023/06/05/news/niger_mistero_fortezze_deserto-403258406/)
 - [Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in Italy](https://www.bellingcat.com/news/2022/08/25/socialite-widow-jeweller-spy-how-a-gru-agent-charmed-her-way-into-nato-circles-in-italy/)
 - \[[When Art, Architecture and Commerce Collided: The BEST Products Showrooms by SITE][sit1]\], \[[BEST Products Company Buildings][sit2]\], \[[Isuzu Space Station Children’s Plaza][sit3]\], \[[Highway 86][sit4]\], \[[More][sit5]\]
